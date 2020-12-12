@@ -4,6 +4,8 @@
 
 参考书推荐使用[《Python编程：从入门到实践（第二版）》](https://book.douban.com/subject/35196328/)
 
+参考资料还包括[Python官方文档](https://docs.python.org/zh-cn/3/)
+
 （本教程正在开发之中，一些想法也存在主观因素，欢迎各位朋友提供宝贵建议！）
 
 ## Python使用的三个等级
