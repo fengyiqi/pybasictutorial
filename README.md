@@ -25,6 +25,6 @@
 - 在开发中考虑执行效率问题
 
 ## 目录
-[1. Python简介、下载和安装](#https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/1.%20%E7%AE%80%E4%BB%8B%E3%80%81%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
+[1. Python简介、下载和安装](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/1.%20%E7%AE%80%E4%BB%8B%E3%80%81%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
-[2. 变量和数据类型](#https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/2.%20%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+[2. 变量和数据类型](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/2.%20%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
