@@ -26,9 +26,9 @@ Python再简单也需要一个工具来编写运行它，集成开发环境 (IDE
 
 打开Spyder后，我们可以看到一个编写代码的页面，在这里我们输入如下代码：
 ```Python
-print('Hello world!')
+print('Hello Python world!')
 ```
-这段代码是打印输出“Hello world!”的命令。
+这段代码是打印输出“Hello Python world!”的命令。
 
 输入完毕后点击上面的执行按钮，在右下角就可以看到我们的输出结果啦！
 
