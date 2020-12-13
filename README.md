@@ -10,6 +10,8 @@
 
 ## Python使用的三个等级
 
+以我的认知来看，可以讲Python的使用划分为三个等级，它们是：
+
 1. 初学者 
 - 能够自行安装和使用Python至少一个IDE
 - 掌握Python基础语法
@@ -23,6 +25,8 @@
 - 能够开发Python库
 - 熟悉Python协议、装饰器、生成器等高阶功能
 - 在开发中考虑执行效率问题
+
+而本教程的目的是带大家快速进入Python的学习，基本能够达到初学者一半的水平。如果想成为初学者完全体，还需要把《Python编程：从入门到实践（第二版）》](https://book.douban.com/subject/35196328/)这本书好好看一遍。
 
 ## 目录
 [1. Python简介、下载和安装](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/1.%20%E7%AE%80%E4%BB%8B%E3%80%81%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
