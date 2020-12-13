@@ -26,9 +26,11 @@
 - 熟悉Python协议、装饰器、生成器等高阶功能
 - 在开发中考虑执行效率问题
 
-而本教程的目的是带大家快速进入Python的学习，基本能够达到初学者一半的水平。如果想成为初学者完全体，还需要把《Python编程：从入门到实践（第二版）》](https://book.douban.com/subject/35196328/)这本书好好看一遍。
+而本教程的目的是带大家快速进入Python的学习，基本能够达到初学者一半的水平。如果想成为初学者完全体，还需要把[《Python编程：从入门到实践（第二版）》](https://book.douban.com/subject/35196328/)这本书好好看一遍。
 
 ## 目录
 [1. Python简介、下载和安装](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/1.%20%E7%AE%80%E4%BB%8B%E3%80%81%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
 [2. 变量和数据类型](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/2.%20%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
+
+[3. 列表、元组与字典](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/3.%20%E5%88%97%E8%A1%A8%E3%80%81%E5%85%83%E7%BB%84%E4%B8%8E%E5%AD%97%E5%85%B8)
