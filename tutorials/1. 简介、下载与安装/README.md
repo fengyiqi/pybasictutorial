@@ -22,7 +22,12 @@ Python再简单也需要一个工具来编写运行它，集成开发环境 (IDE
 2. 依次点击Products -> Individual Edition -> Download -> 选择与自己系统匹配的版本下载，我使用的是Windows 64位版本
 3. 安装时注意一下安装路径，其他的默认就可
 
-# Hello World
+# Hello Python World
+下面我们使用Anaconda自带的集成开发环境Spyder来写我们第一个程序。
+
+首先打开Anaconda Navigator，点击Spyeder下面的Launch。
+
+![](./spyder.png)
 
 打开Spyder后，我们可以看到一个编写代码的页面，在这里我们输入如下代码：
 ```Python
@@ -30,7 +35,7 @@ print('Hello Python world!')
 ```
 这段代码是打印输出“Hello Python world!”的命令。
 
-输入完毕后点击上面的执行按钮，在右下角就可以看到我们的输出结果啦！
+输入完毕后点击上面的执行按钮![](./run.png)，在右下角就可以看到我们的输出结果啦！
 
 > **说明**：我们可以看到此时的文件名是temp.py，其中`.py`指Python文件，其前面`temp`是文件名。
 
