@@ -34,3 +34,5 @@
 [2. 变量和数据类型](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/2.%20%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B)
 
 [3. 列表、元组与字典](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/3.%20%E5%88%97%E8%A1%A8%E3%80%81%E5%85%83%E7%BB%84%E4%B8%8E%E5%AD%97%E5%85%B8)
+
+[4. 判断与循环结构](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/4.%20%E5%88%A4%E6%96%AD%E4%B8%8E%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84)

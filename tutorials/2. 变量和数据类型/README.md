@@ -28,12 +28,12 @@ print(message)
 ```
 - 字符串的拼接可以使用`+`号，比如：
 ```python
-message = "Hello" + "Python world!"
+message = "Hello " + "Python world!"
 print(message)
 ```
 - 如果需要换行，可以使用两次`print`函数，也可以字符串中使用`\n`来进行换行，比如
 ```Python
-message = "Hello \nPython world!"
+message = "Hello! \nPython world!"
 print(message)
 ```
 
