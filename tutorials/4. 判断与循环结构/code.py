@@ -89,7 +89,7 @@ values = [5, 2.7, 8.2, 7, 23.9, 23.8, 11, 29, 11, 40, -3]
 
 for i in range(len(values)):  
     for j in range(i, len(values)):
-        if values[i] > values[j]:
+        if values[j] < values[i]:
             temp = values[i]
             values[i] = values[j]
             values[j] = temp
