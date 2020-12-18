@@ -6,7 +6,7 @@
 
 参考资料还包括[Python官方文档](https://docs.python.org/zh-cn/3/)，[Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
-（本教程正在开发之中，一些想法也存在主观因素，欢迎各位朋友提供宝贵建议！）
+（本教程正在开发之中，一些想法也存在主观因素，语言也较为白话，没仔细斟酌，欢迎各位朋友提供宝贵建议！）
 
 ## Python使用的三个等级
 
@@ -36,3 +36,7 @@
 [3. 列表、元组与字典](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/3.%20%E5%88%97%E8%A1%A8%E3%80%81%E5%85%83%E7%BB%84%E4%B8%8E%E5%AD%97%E5%85%B8)
 
 [4. 判断与循环结构](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/4.%20%E5%88%A4%E6%96%AD%E4%B8%8E%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84)
+
+[5. 函数](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/5.%20%E5%87%BD%E6%95%B0)
+
+[6. 类](https://github.com/fengyiqi/pybasictutorial/tree/main/tutorials/6.%20%E7%B1%BB)
